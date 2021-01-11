@@ -71,7 +71,7 @@ def cancel(update,context):
 
 
 def main():
-    TOK = "1471697693:AAEmK0I-RiESykQbiX0NYqNtV9VTc7yY8cM"
+    TOK = "1482015029:AAFV9jZHci0gS-5MrKxPVsUbfXLN46hqmKY"
     updater = Updater(TOK,use_context=True)
     dispatcher = updater.dispatcher
 
